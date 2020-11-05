@@ -1,5 +1,5 @@
 ### Hi there. This is the official repository of Shounak Saurav Bhattacharya. 👋
-A bit about me: bowtie: :-
+A bit about me 😊 :-
 
  - I am from VIT VELLORE and currently in my JUNIOR year.
  - I am an image processing and a natural language processing enthusiast.
